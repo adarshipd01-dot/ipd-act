@@ -9,3 +9,7 @@ mentor_export.json
 mentor_import.js
 google-serviceAccountKey.json
 migrate.js
+firebase-service-account.json
+export-firestore.js
+migrate-firestore-25ipd.js
+
